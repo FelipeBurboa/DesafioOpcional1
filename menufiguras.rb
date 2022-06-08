@@ -1,4 +1,3 @@
-
 input = " "
 numero = 1
     while input != 4
@@ -79,6 +78,4 @@ numero = 1
     else
         puts "La opcion no existe, ingrese una opcion entre 1 y 4"
     end
-
-
 end
